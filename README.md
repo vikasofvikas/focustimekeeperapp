@@ -1,6 +1,7 @@
 # focustimekeeperapp
 
-A new Flutter application.
+This app helps you in focusing. Select your plant and choose the time. See the plant grwoing as you conitnue focusing on your task.
+This app is inspired from the popular Forest app. 
 
 ## Getting Started
 
